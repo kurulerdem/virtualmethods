@@ -1,0 +1,12 @@
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/bin/Debug/netcoreapp3.1/VirtualMethod.deps.json
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/bin/Debug/netcoreapp3.1/VirtualMethod.runtimeconfig.json
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/bin/Debug/netcoreapp3.1/VirtualMethod.runtimeconfig.dev.json
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/bin/Debug/netcoreapp3.1/VirtualMethod.dll
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/bin/Debug/netcoreapp3.1/VirtualMethod.pdb
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.csprojAssemblyReference.cache
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.AssemblyInfoInputs.cache
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.AssemblyInfo.cs
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.csproj.CoreCompileInputs.cache
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.dll
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.pdb
+/Users/Erdem/Projects/VirtualMethod/VirtualMethod/obj/Debug/netcoreapp3.1/VirtualMethod.genruntimeconfig.cache
